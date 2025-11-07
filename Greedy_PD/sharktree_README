@@ -1,0 +1,22 @@
+File names and descriptions uploaded to data.vertlife.org/sharktree:
+
+- Methods.docx: word file of methods section from the manuscript
+
+- 610.tree.10Cal.RAxML.BS.nex: nexus file of the 610 species undated RAxML tree
+
+- Species.list.csv: .csv file with species names (as Genus_species) to match with tree files
+
+#####################################
+#1 fossil calibration scenario trees#
+#####################################
+- Chondrichthyan.610sp.1_fossil_Calibration.500treePLtrees.nex: nexus file of dated molecular trees using the single fossil calibration scenario (500 trees)
+- 1.cal.tree.nex: nexus file of polytomy resolved trees from single calibration scenario starting trees (10k trees)
+
+######################################
+#10 fossil calibration scenario trees#
+######################################
+- Chondrichthyan.610sp.10_fossil_Calibration.500treePLtrees.nex: nexus file of dated molecular trees using the 10 fossil calibration scenario (500 trees)
+- 10.cal.tree.nex: nexus file of the polytomy resolved trees form the 10 fossil calibration scenario starting trees (10k trees)
+
+
+
